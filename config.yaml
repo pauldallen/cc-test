@@ -3,6 +3,10 @@ variables:
         description: etcd version
         type: String
         required: true
+    PALLEN_TEST:
+        description: testing pallen
+        type: String
+        required: true
     VPC_NAME:
         description: the cloudcoreo defined vpc to add this cluster to
         type: String
