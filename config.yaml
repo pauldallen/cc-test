@@ -11,6 +11,10 @@ variables:
         description: testing another addition
         type: String
         required: true
+    YET_ANOTHER_TEST:
+        description: testing another addition
+        type: String
+        required: true
     VPC_NAME:
         description: the cloudcoreo defined vpc to add this cluster to
         type: String
