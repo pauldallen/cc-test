@@ -7,10 +7,6 @@ variables:
         description: testing pallen
         type: String
         required: true
-    ANOTHER_TEST:
-        description: testing another addition
-        type: String
-        required: true
     YET_ANOTHER_TEST:
         description: testing another addition
         type: String
