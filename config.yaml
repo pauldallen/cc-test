@@ -7,6 +7,10 @@ variables:
         description: testing pallen
         type: String
         required: true
+    ANOTHER_TEST:
+        description: testing another addition
+        type: String
+        required: true
     VPC_NAME:
         description: the cloudcoreo defined vpc to add this cluster to
         type: String
